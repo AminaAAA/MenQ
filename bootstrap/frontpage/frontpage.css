@@ -1,0 +1,60 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+.navbar-inverse, .btn{
+	background-color: #A6CE5F; 
+
+}
+.navbar a, .btn{
+	color: #3363A8;
+}
+#navbar a{
+	color: #3363A8; 
+}
+.navbar-header a:hover{
+	color: #3363A8; 
+}
+.navbar-brand h2{
+	color: #3363A8; 
+	padding: ; 
+	margin: 0; 
+	background-color: ; 
+}
+#merits h1, #howtouse h1{
+	color:#3363A8; 
+	padding: 1%; 
+}
+#signin h2{
+	color: #3363A8; 
+}
+.jumbotron{
+	background-color: white; 
+}
+#merits{
+	background-color: #E8F4D3; 
+}
+#howtouse{
+	background-color: #E5F2C7; 
+	padding: 2%; 
+}
+#merits .well, #howtouse .well{
+	background-color: #E8F4D3; 
+	margin-top: 1%; 
+	border: none; 
+	box-shadow: none; 
+	color: #3363A8; 
+}
+#howtouse .well {
+	background-color: #E5F2C7; 
+}
+#signin{
+	border: 1px solid  #3363A8; 
+	margin: 10%; 
+	padding: 5%; 
+	box-shadow: 2px 2px 1px 0.5px #3363A8 ; 
+}
+.glyphicon{
+	margin-right: 2%; 
+}
